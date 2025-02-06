@@ -1,0 +1,18 @@
+[[Heptagon]]
+arch = "x86_64"
+git-tree-sha1 = "36e0b3fd6fa66035719b08ed27a9cece0922ecb0"
+libc = "glibc"
+os = "linux"
+
+    [[Heptagon.download]]
+    sha256 = "a5d9b66f0fc2482da36d184d828168857f24e2a30344631164ed496a60357353"
+    url = "https://github.com/JuliaBinaryWrappers/Heptagon_jll.jl/releases/download/Heptagon-v1.5.0+0/Heptagon.v1.5.0.x86_64-linux-gnu.tar.gz"
+[[Heptagon]]
+arch = "x86_64"
+git-tree-sha1 = "f477dd84c2e4b273f326c37958bda6d6d4604835"
+libc = "musl"
+os = "linux"
+
+    [[Heptagon.download]]
+    sha256 = "9110c0af9c0887ab7caf4815fc598f670ac8dd17faf48ee225d31f31582341da"
+    url = "https://github.com/JuliaBinaryWrappers/Heptagon_jll.jl/releases/download/Heptagon-v1.5.0+0/Heptagon.v1.5.0.x86_64-linux-musl.tar.gz"

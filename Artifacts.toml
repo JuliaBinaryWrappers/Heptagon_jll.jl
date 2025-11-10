@@ -1,69 +1,69 @@
 [[Heptagon]]
 arch = "aarch64"
-git-tree-sha1 = "8247b55d8f878071c8c38bcc9fcab5c2afb27b5f"
+git-tree-sha1 = "bad9347850ccd4e4410a88568f9a3ab4768d05b2"
 os = "macos"
 
     [[Heptagon.download]]
-    sha256 = "fabd6de0b5d0c42a50af8bdf29c8315c74d118b7706c377f69ee10dc41ddbedc"
-    url = "https://github.com/JuliaBinaryWrappers/Heptagon_jll.jl/releases/download/Heptagon-v1.5.0+1/Heptagon.v1.5.0.aarch64-apple-darwin.tar.gz"
+    sha256 = "98e14b86d1dfd1ac2801d414c662424f06c84d18504ef1665ad6be721571ec84"
+    url = "https://github.com/JuliaBinaryWrappers/Heptagon_jll.jl/releases/download/Heptagon-v1.5.1+0/Heptagon.v1.5.1.aarch64-apple-darwin.tar.gz"
 [[Heptagon]]
 arch = "aarch64"
-git-tree-sha1 = "51f5e7fe0ac69b5f1d56b7960f8c52ef2abc8734"
+git-tree-sha1 = "679c51b93be2b1b12ac74ac068c36df48906458f"
 libc = "glibc"
 os = "linux"
 
     [[Heptagon.download]]
-    sha256 = "17b2d397169d8ab1e2e5f7117da5b3316ac906e6346dd15e45fcb37ecdb2c5df"
-    url = "https://github.com/JuliaBinaryWrappers/Heptagon_jll.jl/releases/download/Heptagon-v1.5.0+1/Heptagon.v1.5.0.aarch64-linux-gnu.tar.gz"
+    sha256 = "6f609f49667aa59a4ea364985abf99c6eed240099955ef91ca4194b740cfd1b8"
+    url = "https://github.com/JuliaBinaryWrappers/Heptagon_jll.jl/releases/download/Heptagon-v1.5.1+0/Heptagon.v1.5.1.aarch64-linux-gnu.tar.gz"
 [[Heptagon]]
 arch = "aarch64"
-git-tree-sha1 = "defec2d92bf6d8b54756f152b3c8cca5f81ebbc1"
+git-tree-sha1 = "0977ca532ae3433b4ded4103ac2a244568af7e51"
 libc = "musl"
 os = "linux"
 
     [[Heptagon.download]]
-    sha256 = "b55db3afc463bc3f22b459a237feaa82dbd1b6aee4485b4c020386f6662fe7e3"
-    url = "https://github.com/JuliaBinaryWrappers/Heptagon_jll.jl/releases/download/Heptagon-v1.5.0+1/Heptagon.v1.5.0.aarch64-linux-musl.tar.gz"
+    sha256 = "d11c8268ed35717e014ee0e82fbd0b55d98c5bdb0617a3cff7ca29da168d3230"
+    url = "https://github.com/JuliaBinaryWrappers/Heptagon_jll.jl/releases/download/Heptagon-v1.5.1+0/Heptagon.v1.5.1.aarch64-linux-musl.tar.gz"
 [[Heptagon]]
 arch = "powerpc64le"
-git-tree-sha1 = "fba58766e253e19314af9b9e7a1ec8824294e37d"
+git-tree-sha1 = "a9960fdeba664a6ab09ee72ebba49e1bf9ba8159"
 libc = "glibc"
 os = "linux"
 
     [[Heptagon.download]]
-    sha256 = "d782c4402e3e48402d670e083a00e1b15e0a709913acc379a396796cce1b5d97"
-    url = "https://github.com/JuliaBinaryWrappers/Heptagon_jll.jl/releases/download/Heptagon-v1.5.0+1/Heptagon.v1.5.0.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "ac28e1720053513eabc576559429ca4a74dad3b0b7cdf3e65e466a1373d94943"
+    url = "https://github.com/JuliaBinaryWrappers/Heptagon_jll.jl/releases/download/Heptagon-v1.5.1+0/Heptagon.v1.5.1.powerpc64le-linux-gnu.tar.gz"
 [[Heptagon]]
 arch = "riscv64"
-git-tree-sha1 = "2af3788ca58320ed1e34ac0eae14109f35189bb8"
+git-tree-sha1 = "0fb43ff63c9987bf8b97977a74b3ea694e48f2ae"
 libc = "glibc"
 os = "linux"
 
     [[Heptagon.download]]
-    sha256 = "459d2f43236f6f5ea921c3272e0ce205b74ae5218b24b1271b6787339602dc22"
-    url = "https://github.com/JuliaBinaryWrappers/Heptagon_jll.jl/releases/download/Heptagon-v1.5.0+1/Heptagon.v1.5.0.riscv64-linux-gnu.tar.gz"
+    sha256 = "f0965c8421a18cd2290963ae211fc71f2d949abc5759c9772e0324935d565b05"
+    url = "https://github.com/JuliaBinaryWrappers/Heptagon_jll.jl/releases/download/Heptagon-v1.5.1+0/Heptagon.v1.5.1.riscv64-linux-gnu.tar.gz"
 [[Heptagon]]
 arch = "x86_64"
-git-tree-sha1 = "c1b2a4076cb3956936d2b1ad702543426ca13148"
+git-tree-sha1 = "48778631e9c145bac56750599ba313e0d2f5f8b9"
 os = "macos"
 
     [[Heptagon.download]]
-    sha256 = "8a8ee48bc32c0443607d6bcab66a3eb4236cbfb47c146250fdf80a715efea20c"
-    url = "https://github.com/JuliaBinaryWrappers/Heptagon_jll.jl/releases/download/Heptagon-v1.5.0+1/Heptagon.v1.5.0.x86_64-apple-darwin.tar.gz"
+    sha256 = "58f50e376d87b5f82ebbe423057b1fbab5eca8ce0af655f5220d0de067f6d3b0"
+    url = "https://github.com/JuliaBinaryWrappers/Heptagon_jll.jl/releases/download/Heptagon-v1.5.1+0/Heptagon.v1.5.1.x86_64-apple-darwin.tar.gz"
 [[Heptagon]]
 arch = "x86_64"
-git-tree-sha1 = "5c2d3abf171c46a62faf3ca3b5f59a47c8340cc8"
+git-tree-sha1 = "817b7e93c32032be8b1bb6afb4eb6da475dd1edf"
 libc = "glibc"
 os = "linux"
 
     [[Heptagon.download]]
-    sha256 = "e91a77bcfc270a8f5cc8e3c9b448c2044832bf7f0586e5266f594c61018cc0bd"
-    url = "https://github.com/JuliaBinaryWrappers/Heptagon_jll.jl/releases/download/Heptagon-v1.5.0+1/Heptagon.v1.5.0.x86_64-linux-gnu.tar.gz"
+    sha256 = "f039856997288ba3d2635960358d44a12427e1062e1fb3e667c4cf6eb987bb58"
+    url = "https://github.com/JuliaBinaryWrappers/Heptagon_jll.jl/releases/download/Heptagon-v1.5.1+0/Heptagon.v1.5.1.x86_64-linux-gnu.tar.gz"
 [[Heptagon]]
 arch = "x86_64"
-git-tree-sha1 = "369e632aa02e29d358f977477fe3a2f5ddc8153d"
+git-tree-sha1 = "2fc6b65037cff5ca2cf4478b03b65d03fd9b385a"
 os = "windows"
 
     [[Heptagon.download]]
-    sha256 = "57c73d8642e9232e40271a9533832da4a08830d9e7ab295e0c9db496785eb572"
-    url = "https://github.com/JuliaBinaryWrappers/Heptagon_jll.jl/releases/download/Heptagon-v1.5.0+1/Heptagon.v1.5.0.x86_64-w64-mingw32.tar.gz"
+    sha256 = "33412454dd5b6ca47e809f6571ece15d3f413ca99dc2cc2d09a7e86735a8d488"
+    url = "https://github.com/JuliaBinaryWrappers/Heptagon_jll.jl/releases/download/Heptagon-v1.5.1+0/Heptagon.v1.5.1.x86_64-w64-mingw32.tar.gz"
